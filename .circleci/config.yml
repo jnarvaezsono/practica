@@ -20,5 +20,5 @@ workflows:
             requires:
                 - build-and-test
             filters:
-                brances:
+                branches:
                 only: production
