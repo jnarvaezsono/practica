@@ -21,4 +21,4 @@ workflows:
                 - build-and-test
             filters:
                 branches:
-                only: production
+                    only: production
